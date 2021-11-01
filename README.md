@@ -17,3 +17,5 @@
 # Regression
 ## Regression predict continues values
 ![reg1](/pictures/4.png)
+![reg1](/pictures/5.png)
+
