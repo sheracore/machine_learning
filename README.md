@@ -30,3 +30,4 @@
 
 ## Simple Linear Regression
 ### Simple in regression means just using one independet variable to predict (just using x1 or xn)
+![reg1](/pictures/8.png)
