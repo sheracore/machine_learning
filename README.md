@@ -37,4 +37,5 @@
 #### hat Y is the prediction y(estimate) and (Y-hatY) is mistake of prediction and to bold the mistake we should square it and finaly sum all data:
 
 ![reg1](/pictures/10.png)
+![reg1](/pictures/11.png)
 
