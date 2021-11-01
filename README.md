@@ -8,4 +8,6 @@
 ### - Anomaly detections (cridit card fraud)
 ### - Netflix recommendations (cridit card fraud)
 
+
+## Supervised and Unsupervised
 ![supervised_unsupervised](/pictures/1.png)
