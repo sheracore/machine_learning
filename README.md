@@ -10,4 +10,5 @@
 
 
 ## Supervised and Unsupervised
-![supervised_unsupervised](/pictures/1.png)
+![supervised](/pictures/1.png)
+![unsupervised](/pictures/2.png)
