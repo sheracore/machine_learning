@@ -9,7 +9,7 @@
 ### - Netflix recommendations (cridit card fraud)
 
 
-## Supervised and Unsupervised
+## #Supervised and Unsupervised
 ![supervised](/pictures/1.png)
 ![unsupervised](/pictures/2.png)
 ![both](/pictures/3.png)
@@ -18,13 +18,15 @@
 ## Regression predict continues values
 ![reg1](/pictures/4.png)
 ![reg1](/pictures/5.png)
-## Simple vs multiple
+### Simple vs multiple
 ![reg1](/pictures/6.png)
-## Regression samples
-### Household Price
-### Customer Satisfaction
-### Sales forecast
-### Employment income
+### Regression samples
+#### Household Price
+#### Customer Satisfaction
+#### Sales forecast
+#### Employment income
 
 ![reg1](/pictures/7.png)
+
+## Simple Liner Regression
 
