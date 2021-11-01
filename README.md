@@ -28,5 +28,5 @@
 
 ![reg1](/pictures/7.png)
 
-## Simple Liner Regression
+## Simple Linear Regression
 
