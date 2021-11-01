@@ -7,3 +7,5 @@
 ### - Bank loans (Clustering)
 ### - Anomaly detections (cridit card fraud)
 ### - Netflix recommendations (cridit card fraud)
+
+![supervised_unsupervised](/pictures/1.png)
