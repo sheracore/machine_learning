@@ -18,4 +18,11 @@
 ## Regression predict continues values
 ![reg1](/pictures/4.png)
 ![reg1](/pictures/5.png)
+## Simple vs multiple
+![reg1](/pictures/6.png)
+## Regression samples
+### Household Price
+### Customer Satisfaction
+### Sales forecast
+### Employment income
 
