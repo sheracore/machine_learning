@@ -15,4 +15,5 @@
 ![both](/pictures/3.png)
 
 # Regression
+## Regression predict continues values
 ![reg1](/pictures/4.png)
