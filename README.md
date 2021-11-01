@@ -29,4 +29,4 @@
 ![reg1](/pictures/7.png)
 
 ## Simple Linear Regression
-
+### Simple in regression means just using one independet variable to predict (just using x1 or xn)
