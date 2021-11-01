@@ -21,10 +21,10 @@
 ### Simple vs multiple
 ![reg1](/pictures/6.png)
 ### Regression samples
-#### Household Price
-#### Customer Satisfaction
-#### Sales forecast
-#### Employment income
+#### - Household Price
+#### - Customer Satisfaction
+#### - Sales forecast
+#### - Employment income
 
 ![reg1](/pictures/7.png)
 
