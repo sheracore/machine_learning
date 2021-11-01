@@ -13,3 +13,6 @@
 ![supervised](/pictures/1.png)
 ![unsupervised](/pictures/2.png)
 ![both](/pictures/3.png)
+
+# Regression
+![reg1](/pictures/4.png)
