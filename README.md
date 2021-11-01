@@ -26,3 +26,5 @@
 ### Sales forecast
 ### Employment income
 
+![reg1](/pictures/7.png)
+
