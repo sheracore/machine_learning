@@ -45,3 +45,11 @@
 ## Model Evaluation
 ![reg1](/pictures/13.png)
 
+### Training accuracy VS Out of sample accuracy
+
+![reg1](/pictures/14.png)
+### Train/Test split
+![reg1](/pictures/15.png)
+### Evaluation Matrix
+![reg1](/pictures/16.png)
+![reg1](/pictures/17.png)
