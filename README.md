@@ -51,5 +51,15 @@
 ### Train/Test split
 ![reg1](/pictures/15.png)
 ### Evaluation Matrix
-![reg1](/pictures/16.png)
+### Mean absolute error(MAE): 
 ![reg1](/pictures/17.png)
+### And other evaluation algorithems
+![reg1](/pictures/19.png)
+
+## To learninig panda and numpy please run codes by jupyter by
+```
+python3.8 -m jupyter
+```
+
+
+
