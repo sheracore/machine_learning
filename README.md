@@ -61,5 +61,6 @@
 python3.8 -m jupyter
 ```
 
-
+## Multiple Linear Regression
+![reg1](/pictures/20.png)
 
