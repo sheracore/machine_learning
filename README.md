@@ -58,7 +58,8 @@
 
 ## To learninig panda and numpy please run codes by jupyter by
 ```
-python3.8 -m jupyter
+python3.8 -m notebook
+python -m notebook
 ```
 
 ## Multiple Linear Regression
